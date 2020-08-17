@@ -2,9 +2,9 @@
 
 # Hi there! 👋
 
-I am Manish Gautam 🙋🏻‍♂️ GLA University 3rd year B.tech(CSE) Student that is open to new opportunities and learning sources.
+#### I am Manish Gautam 🙋🏻‍♂️ GLA University 3rd year B.tech(CSE) Student that is open to new opportunities and learning sources.
 
-I’m currently learning FullStack web development besides working on Android Skill and my Machine Learning projects...... 
+#### I’m currently learning FullStack web development besides working on Android Skill and my Machine Learning projects...... 
 
 
 <hr>
