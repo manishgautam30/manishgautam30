@@ -2,7 +2,7 @@
 
 # Hi there! 👋
 
-I am Manish Guatam 🙋🏻‍♂️ GLA University 3rd year B.tech(CSE) Student that is open to new opportunities and learning sources.
+I am Manish Gautam 🙋🏻‍♂️ GLA University 3rd year B.tech(CSE) Student that is open to new opportunities and learning sources.
 
 I’m currently learning FullStack web development besides working on Android Skill and my Machine Learning projects...... 
 
@@ -11,11 +11,17 @@ I’m currently learning FullStack web development besides working on Android Sk
 
 ## Ask me about projects...💬 
 
-[FullStack learning](https://manishgautam30.github.io/FullStack_2020)
+### FullStack learning
+[Live Web-Page ](https://manishgautam30.github.io/FullStack_2020)
+[My Live WebSite ](https://manishgautam30.github.io/My-WebSite)
 
-[ML learning](https://github.com/manishgautam30/invisible_cloak)
+### ML learning
+[Invisible Cloak: Harry Potter](https://github.com/manishgautam30/invisible_cloak)
+[Hand Digit Recognizer](https://github.com/manishgautam30/ML_handwritten_digit_recognizer)
 
-[Android learning](https://github.com/manishgautam30/Calculator_app)
+### Android learning
+[Calculator App](https://github.com/manishgautam30/Calculator_app)
+[QR Code reader and Scanner App](https://github.com/manishgautam30/Instant_QR)
 
 
 ## Connect with Me.... 🤝🏻
