@@ -4,7 +4,7 @@
 
 I am Manish Guatam 🙋🏻‍♂️ GLA University 3rd year B.tech(CSE) Student that is open to new opportunities and learning sources.
 
-I’m currently learning FullStack web development besides working on my Machine Learning live projects....
+I’m currently learning FullStack web development besides working on Android Skill and my Machine Learning projects....
 
 <hr>
 ## Ask me about projects💬 
