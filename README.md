@@ -12,15 +12,15 @@
 ## Ask me about projects...💬 
 
 ### FullStack learning
-[Live Web-Page ](https://manishgautam30.github.io/FullStack_2020)
+[Live Web-Page ](https://manishgautam30.github.io/FullStack_2020) <br>
 [My Live WebSite ](https://manishgautam30.github.io/My-Website)
 
 ### ML learning
-[Invisible Cloak: Harry Potter](https://github.com/manishgautam30/invisible_cloak)
+[Invisible Cloak: Harry Potter](https://github.com/manishgautam30/invisible_cloak)<br>
 [Hand Digit Recognizer](https://github.com/manishgautam30/ML_handwritten_digit_recognizer)
 
 ### Android learning
-[Calculator App](https://github.com/manishgautam30/Calculator_app)
+[Calculator App](https://github.com/manishgautam30/Calculator_app)<br>
 [QR Code reader and Scanner App](https://github.com/manishgautam30/Instant_QR)
 
 <hr>
