@@ -1,4 +1,4 @@
-[![MastHead](https://raw.githubusercontent.com/manishgautam30/manishgautam30/master/mast.jpg)](https://manishgautam30.github.io/My-Website/)
+[![MastHead](https://raw.githubusercontent.com/manishgautam30/manishgautam30/master/mast.JPG)](https://manishgautam30.github.io/My-Website/)
 
 # Hi there! 👋
 
@@ -23,10 +23,27 @@ I’m currently learning FullStack web development besides working on Android Sk
 [Calculator App](https://github.com/manishgautam30/Calculator_app)
 [QR Code reader and Scanner App](https://github.com/manishgautam30/Instant_QR)
 
+<hr>
 
 ## Connect with Me.... 🤝🏻
 
+[My-Website](https://manishgautam30.github.io/My-WebSite)
 
+[Linkedin](https://www.linkedin.com/in/manishgautam30/)
+
+[Github](https://www.githhub.com/manishgautam30/)
+
+[Hackkerrank](https://www.hackerrank.com/_181500366/)
+
+[Instagram](https://www.instagram.com/manish_gautam_30/)
+
+[Facebook](https://www.facebook.com/manish30gautam)
+
+<hr>
+
+[Dino](https://raw.githubusercontent.com/manishgautam30/manishgautam30/master/dino.gif)
+
+![Manish GitHub statistic](https://github-readme-stats.vercel.app/api?username=manishgautam30&show_icons=true)
 
 <!--
 **manishgautam30/manishgautam30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
