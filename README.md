@@ -13,7 +13,7 @@ I’m currently learning FullStack web development besides working on Android Sk
 
 ### FullStack learning
 [Live Web-Page ](https://manishgautam30.github.io/FullStack_2020)
-[My Live WebSite ](https://manishgautam30.github.io/My-WebSite)
+[My Live WebSite ](https://manishgautam30.github.io/My-Website)
 
 ### ML learning
 [Invisible Cloak: Harry Potter](https://github.com/manishgautam30/invisible_cloak)
@@ -27,11 +27,11 @@ I’m currently learning FullStack web development besides working on Android Sk
 
 ## Connect with Me.... 🤝🏻
 
-[My-Website](https://manishgautam30.github.io/My-WebSite)
+[My-Website](https://manishgautam30.github.io/My-Website)
 
 [Linkedin](https://www.linkedin.com/in/manishgautam30/)
 
-[Github](https://www.githhub.com/manishgautam30/)
+[Github](https://www.github.com/manishgautam30/)
 
 [Hackkerrank](https://www.hackerrank.com/_181500366/)
 
@@ -41,7 +41,6 @@ I’m currently learning FullStack web development besides working on Android Sk
 
 <hr>
 
-[Dino](https://raw.githubusercontent.com/manishgautam30/manishgautam30/master/dino.gif)
 
 ![Manish GitHub statistic](https://github-readme-stats.vercel.app/api?username=manishgautam30&show_icons=true)
 
