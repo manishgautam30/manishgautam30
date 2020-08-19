@@ -9,7 +9,7 @@
 
 <hr>
 
-## Ask me about projects...💬 
+## 💬 Ask me about projects... 
 
 ### FullStack learning
 [Live Web-Page ](https://manishgautam30.github.io/FullStack_2020) <br>
@@ -25,7 +25,7 @@
 
 <hr>
 
-## Connect with Me.... 🤝🏻
+## 🤝🏻 Connect with Me.... 
 
 [My-Website](https://manishgautam30.github.io/My-Website)
 
@@ -38,6 +38,15 @@
 [Instagram](https://www.instagram.com/manish_gautam_30/)
 
 [Facebook](https://www.facebook.com/manish30gautam)
+
+<hr>
+
+## ⚡ Fun fact:
+#### Did u know about 100 million bicycles are manufactured worldwide each year. 
+
+
+[Want to try out some fun game here it is...](https://manishgautam30.github.io/BiKer_game)
+
 
 <hr>
 
