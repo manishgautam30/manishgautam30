@@ -36,7 +36,7 @@
 
 [Github](https://www.github.com/manishgautam30/)
 
-[Hackkerrank](https://www.hackerrank.com/_181500366/)
+[Hackerrank](https://www.hackerrank.com/_181500366/)
 
 [Instagram](https://www.instagram.com/manish_gautam_30/)
 
