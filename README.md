@@ -1,4 +1,4 @@
-[![MastHead](https://raw.githubusercontent.com/manishgautam30/manishgautam30/master/mast.JPG)](https://manishgautam30.github.io/My-Website/)
+[![MastHead](https://raw.githubusercontent.com/manishgautam30/manishgautam30/master/mast.JPG)](https://manishgautam30.github.io/Manish_Gautam/)
 
 # Hi there! 👋
 
@@ -13,7 +13,10 @@
 
 ### FullStack learning
 [Live Web-Page ](https://manishgautam30.github.io/FullStack_2020) <br>
-[My Live WebSite ](https://manishgautam30.github.io/My-Website)
+[My Live WebSite ](https://manishgautam30.github.io/Manish_Gautam) <br>
+[Bill Calculator ](https://manishgautam30.github.io/Bill_Calculator)
+
+
 
 ### ML learning
 [Invisible Cloak: Harry Potter](https://github.com/manishgautam30/invisible_cloak)<br>
@@ -27,7 +30,7 @@
 
 ## 🤝🏻 Connect with Me.... 
 
-[My-Website](https://manishgautam30.github.io/My-Website)
+[My-Website](https://manishgautam30.github.io/Manish_Gautam)
 
 [Linkedin](https://www.linkedin.com/in/manishgautam30/)
 
